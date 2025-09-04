@@ -8,7 +8,7 @@ The primary objective is to find a route with the minimum number of stops betwee
 
 For example, the correct path from station 20 to 50 is 20 → 30 → 50, not 20 → 45 → 50, because at the second-to-last stop, 30 is closer to the start than 45.
 
-Input File Format and Commands
+#Input File Format and Commands
 
 The program processes a text file containing a sequence of commands, one per line.
 
